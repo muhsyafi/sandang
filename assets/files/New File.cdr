@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <generator>MirrorBrain/2.15.0</generator>
+  <origin dynamic="true">http://download.opensuse.org/tumbleweed/repo/src-oss/suse/src/blender-2.72b-2.3.src.rpm.meta4</origin>
+  <published>2014-12-25T19:22:36Z</published>
+  <publisher>
+    <name>openSUSE</name>
+    <url>http://download.opensuse.org</url>
+  </publisher>
+
+  <file name="blender-2.72b-2.3.src.rpm">
+    <size>52054043</size>
+
+    <!-- <mtime>1417877159</mtime> -->
+
+    <!-- internal id: 205660396 -->
+    <hash type="md5">439836f434413583db03f8a5a9c69c37</hash>
+    <hash type="sha-1">85c6320cedb105268eef1b97a5b8f85e2d172b65</hash>
+    <hash type="sha-256">a442b54a6f0e48e517c9c1c7f55d928d11535e5b02e9278aeeafdd9569e1f1a1</hash>
+    <pieces length="262144" type="sha-1">
+      <hash>027a097f0332685e6fbb20a9cc2ee29a92272f3a</hash>
+      <hash>cbad6434e3c11ff5340fc51f2cfde39cf6028d84</hash>
+      <hash>1df418684a5ccb3979c01c95803bb992b4eeb153</hash>
+      <hash>ad4522d673a30785b9feb544e81877e5724507c4</hash>
+      <hash>eb3af62f203e8d470c7a77e09608591be61d8ee0</hash>
+      <hash>c7f43f51ef02687f23b90b881ff4a5a28bb52954</hash>
+      <hash>35691ec1befd848c611d7b4a45eb8b554da88eee</hash>
+      <hash>380a13efec27b415b86a2261f270f1d5c62aee68</hash>
+      <hash>4d07f1c5e3bae565e43f4734f0e29a6cd4a2a8e7</hash>
+      <hash>7b718557dc730c9031d95de61788647436ed09a7</hash>
+      <hash>c1389fd8dda902e90060fda29bd0bcae66e3af68</hash>
+      <hash>c51f52cb38640f233e48f4523e420d21720834c3</hash>
+      <hash>40b442b55081c63d603582846ac592cb2273015e</hash>
+      <hash>ab590b92ff84e75aa6fcf6317d36af39fa2abce5</hash>
+      <hash>6b2182fbf6d8b328bc2f9234230377d4c7a512ff</hash>
+      <hash>121638341228cce8e1a629ddce7b2c866ec177ad</hash>
+      <hash>ca338aa84960641802f6c883d079c31b1cefe9e3</hash>
+      <hash>e21a18482ba533ffc3c37324df2c5de592a78d58</hash>
+      <hash>020e7491e9db482896cb671c6572013c57b19cea</hash>
+      <hash>720a6459fe18d8726711f815c51e98372bbf82e9</hash>
+      <hash>a22b3c3f3616c536c31acf60f7b7eae2d9f85767</hash>
+      <hash>d0edb9489de53b0eae44d6fdcca23fe4537f34a0</hash>
+      <hash>74b823abc8b3c0696ca9bbf75f2bfe520b44e31e</hash>
+      <hash>445f2e1943acbe31754279ba0d35257304e2f46a</hash>
+      <hash>c39551e7ec1cb977394d29901e6e55784cf34d9a</hash>
+      <hash>69feec07fc20e3a38c846d6cf8946db0e03fd768</hash>
+      <hash>ee4b1e130f6bffe80f25faa7e42fa8a716fdc271</hash>
+      <hash>b36e2c002abecc3d6e0655a824e3b689a26296e4</hash>
+      <hash>6217907fbc0332c1bd4d2a466c98771f01f3c732</hash>
+      <hash>d725d2f92b45367c8a5a224b40212e2471e38700</hash>
+      <hash>ad6c2e11d8ca38f6013b3213202b330f9b075dc3</hash>
+      <hash>99d7c6e7b056b13e93afb179fec26fb9d05d360f</hash>
+      <hash>6b299bbf79cb326c9998d94b4ff394fc3ff7063f</hash>
+      <hash>dc09491771593e9ee59e60ea4324196a1703b19b</hash>
+      <hash>83d346977af45aa737a421ad670ca18dbbaef2a5</hash>
+      <hash>13a7e1601bbf4233a1289e38c9e47087d608abc1</hash>
+      <hash>def55a916ae5363f3e06056a773c49f8b9c419b9</hash>
+      <hash>e6fc0be9f2e50d20ce9536fe1431269f17faf2ad</hash>
+      <hash>36adaecd06bfb97c5999ec3b3ddca70e0a41b67a</hash>
+      <hash>3e9b8007c68e6126587f5e3bb71439c1fec67b58</hash>
+      <hash>057f30622e06fc2fa289de26a8886f95b68266b6</hash>
+      <hash>d2d068418112e85ed1afa7d031dd28edba951b5d</hash>
+      <hash>e3b08353fa880acc3193e0e62b962883dcb828c2</hash>
+      <hash>54a35d7cf7c32e2cdb3e9faf33e9890ff1a04574</hash>
+      <hash>b3870a735ede48be22d69ffa409b5ce8c9ce580d</hash>
+      <hash>18b1af4c9429cdecb66c0c5ca026adeb120c2c9a</hash>
+      <hash>3410c836b980fc8e5d3e3493e3d25ee28b012f65</hash>
+      <hash>d633a7728f0ab237a716e0bd0f71bd18479deffe</hash>
+      <hash>d93226ece93032b9755e410ba141e125cb9cc2d6</hash>
+      <hash>5ee06f82d12b0cdff9802c4668238356b01ce96a</hash>
+      <hash>f98af3f4daf9bc23d03b715264ec5ed9a4cc0d7b</hash>
+      <hash>92b6610d4e06d3e11f5cefa6537e88110ca45f45</hash>
+      <hash>206c256626c20f1fac499b464bff644da5f7e3d0</hash>
+      <hash>5cc33a9908d2aa886b7299f71b92e995ca4428fb</hash>
+      <hash>4d79a944d553359b1bce0c7ac43d72bd8f13090e</hash>
+      <hash>7cc2c3605923feb3629203378e61721624eef80c</hash>
+      <hash>843f0c6d2954f9100aa65ba76596772d523e5e3b</hash>
+      <hash>a9ba7d365f9b67c7ef4d20a48ce410790acafcae</hash>
+      <hash>d16151535475994547ad1069d7019b98b8fae589</hash>
+      <hash>63c1b70cffe9c8e3d971eec15de13d98a757b261</hash>
+      <hash>a3a9c61d6688af28fefeea1c08a270e3939428fc</hash>
+      <hash>19c6fe8a51b03f63f5e6524f776a130ee57875a0</hash>
+      <hash>72521d434d4a3761649ba18da10b78c5c365f641</hash>
+      <hash>4f6eb3faaf780a5bedd15a7b24dcb0a7117c9e59</hash>
+      <hash>b2f6eda7c99762db151bc125b940d9918712f3a8</hash>
+      <hash>7666080c295dc14f6efcb96f155ee300c13fff4f</hash>
+      <hash>70e71a1c4dcd4eb693c2e5cb20b77a2f77761b75</hash>
+      <hash>c73d422afaaaadbcc2cbfedcc9b26d55acc24d77</hash>
+      <hash>b40eb3c1c0f97926e94328cf952f57029273c37f</hash>
+      <hash>7e01d269fd6e6536156545a94df9cf605a7defd8</hash>
+      <hash>cb69d06230b42280ca4c1f3618c23a310c0a33e0</hash>
+      <hash>fffaf8f7a60222095f4599078d191b6cf134ce71</hash>
+      <hash>2b24789369837b8b994faba88a898144d040bf3e</hash>
+      <hash>39ff3630ec9584f13b177f2221d60fbee7d2d43c</hash>
+      <hash>0955fb665c5e43eb58ef384d05f0331941b01af2</hash>
+      <hash>9752e002e92fdecbb625d11090a0e4129ffa82cd</hash>
+      <hash>a43e0c2ced424a0e0c3c2c213debda68d961d322</hash>
+      <hash>de0de1c55526921ccc65df9fa31042ebd6f125e3</hash>
+      <hash>0206661a545f300792ea29fda0f0cece5667300c</hash>
+      <hash>2ef2749b2f811a3d1ba7c7b9bc07940863803c77</hash>
+      <hash>756a17fd485a37807288f82271e40e5311ace6aa</hash>
+      <hash>78abf30f5230dda28564678a1e48f3e2a3ade958</hash>
+      <hash>8616ec9f0655a3684bbb120347a90e92e48b8163</hash>
+      <hash>3effc22f6b4f39cf31058f1a55c4c7ec0db704ea</hash>
+      <hash>8c6f55c6cb46f528955cd28ce02de7e08044cc51</hash>
+      <hash>9ae4a1f3336353e573c75149cfa3ca25787e900f</hash>
+      <hash>d731c797d7575c8bb73479fcdd37fdf529f6391d</hash>
+      <hash>9d461b0d1adcd6eed487b8656f3a7c81d583d1f2</hash>
+      <hash>13dedf27f68f070291d15763458ba3b72b0f400a</hash>
+      <hash>2c3cee8a5fce6ba05422582635ea7bf3d9ea2d44</hash>
+      <hash>6db194a2340db48088a0fb04f6af9e5bd902b5d5</hash>
+      <hash>ce4903aa8a507a6304c01c018d3bbd31257e9ae3</hash>
+      <hash>71ba3a9d87f88bb911a98f46fa41727706e71557</hash>
+      <hash>3f78f998bdc3122ae3d44ecc102b7a2af331e3f4</hash>
+      <hash>bdedb14b3b36164a74be8fe9fdcb8c26b77195d6</hash>
+      <hash>3bad94d7f726b5eb901414c4ece8a6b277b232d1</hash>
+      <hash>7a2417d46bfc03b3918e71c4020f70db6f22037b</hash>
+      <hash>f612966b65744497741fdaadc7a3e262e4d1e3d2</hash>
+      <hash>440a96ed0363167b745ddbdb9e18bb808c4b404c</hash>
+      <hash>0c1a6a0d3b28ab83950ee39ae64f2d7e7748e72d</hash>
+      <hash>f0c14254f3d23268dd1060e1869f37ea79e46651</hash>
+      <hash>a43c4dc491083bfb8a76288db11df51040bc6720</hash>
+      <hash>6137c78cc04cada8bc94b87c09d8fe8205b75d7a</hash>
+      <hash>a5213131d1dc4ea620dcf76dd3b5361bb0400c64</hash>
+      <hash>e512839082a5d481732d907bbb584970a36454fa</hash>
+      <hash>7285c8131f191bb90845cfab67504b4d090b1758</hash>
+      <hash>cebc627fd548065c2df2fac8d1b63b2b8de12e9e</hash>
+      <hash>4a46146af0befbbb55bc5d40d69812dee182a424</hash>
+      <hash>3180c2a44679756b11a70f497f64fdb0f07c0701</hash>
+      <hash>bd28fbe6e24dab651e8fb8d13f35365d314f7522</hash>
+      <hash>c4c3c14fed8997362b5475b8158e088ec837f1f0</hash>
+      <hash>c19d7c7506a29022b92c1a51832ce515c86a742f</hash>
+      <hash>90e0e990bb6e410f76c9c9a593fb645d01ec84c0</hash>
+      <hash>4a4dc9d3ae1e2b3d9b96fdfe4fcdbcd10068ee02</hash>
+      <hash>160b08a33f800cfca379cd5ccf11f5f27daefdd3</hash>
+      <hash>1459397ff645e21a08557e7b381b7e92f7e67578</hash>
+      <hash>582fa4c84df4d45ac1253728073e91a8e4642968</hash>
+      <hash>b9f8c9799dbf14e3b9dc9478486163191aeb9554</hash>
+      <hash>297dcc37fd38e194ab3b1ec80685c18a1df8f34d</hash>
+      <hash>594df7546d3895dc6910c6690c5da0e642176501</hash>
+      <hash>f2994f2f4d1cd55eaa17cf98c73d3874bd89e290</hash>
+      <hash>4aaf710e912830f3d6306f31b1e701838bbe6d78</hash>
+      <hash>0c4fd9dab06fd95cf67fb51f1e711ce4aaa09fc1</hash>
+      <hash>7844f3f5ba93eb4a84fb1a58ed3b318cd592e463</hash>
+      <hash>4dc9ecde271280da47c780545198ecb756691b63</hash>
+      <hash>f8a5a92e324b2a9ada7944f7a1981e19fb170536</hash>
+      <hash>31ccbc2fc02128031e453805b3a31a867749a8ff</hash>
+      <hash>307e4ec46d6e5009b9290d03f7719eba53eba948</hash>
+      <hash>e4feefc1a25f6c61af0d466f31abd6ba11f992dd</hash>
+      <hash>23121b77859ec0f6e76aa805aa3158455d6c3c81</hash>
+      <hash>c2bd44bbe271ab932594d3dd75f30ac82dddb0c4</hash>
+      <hash>be0656e0f13fc59e4365fc6a65045f49bc5fb2bd</hash>
+      <hash>e1aa38debdabacf59ccf7b1e176180ef2dbafff3</hash>
+      <hash>ae8ed3974a2323e4bdf8a2fce947269622c0f92b</hash>
+      <hash>df34906cc44f576859632d57116d61efa8ba2a2d</hash>
+      <hash>35c0db33c97fb829ddf8bb6f2fdf8be85ef27d12</hash>
+      <hash>48a4aedca61360fc07c30e554a724103dd5ef7cf</hash>
+      <hash>baecd70ecaa0c8ecbbb515f3b2e23d6cbe18210c</hash>
+      <hash>23eb23551f3467256546c83c06f1c395d3805318</hash>
+      <hash>8e615da2dfbd9bbd1d1831dd37951330181c737a</hash>
+      <hash>67eb12882db637aef865ae6161cf1332fd00bfcd</hash>
+      <hash>160f20edc1926f0a11fa10030bb470c772324791</hash>
+      <hash>6e1608f92c7280b82f5b2227ef17fde505a956cf</hash>
+      <hash>ecb417cfc2775f501a10509a7cc59a8ce9136fd4</hash>
+      <hash>9efb215ec4af1e849afef24165ac82343239f17a</hash>
+      <hash>c41cc2f83177ad68146bdacd00271ded3790c0eb</hash>
+      <hash>c1a2428f4116af9e6149e1257b8c2752b2af9f21</hash>
+      <hash>ba1418ccfe08803d9c9ab3c78e49ffd8067945a4</hash>
+      <hash>18b46e71d8374c4fc2a5e9cbcdf4388724fe3ac9</hash>
+      <hash>55c50e32455f52c15a8e0d4b9555c8692d6a96e6</hash>
+      <hash>e0f8c3055134c500af512ea08d2287572f767df8</hash>
+      <hash>0670502966846d541a6c29682ceccf30c5a3f828</hash>
+      <hash>d68d7bcac823919774ea01a934fc0e288704ab22</hash>
+      <hash>390facd85c2d453b19b01cca1de64b2c0e1573c8</hash>
+      <hash>3c92d452e781abd9ee04e47cef2367106821e8fe</hash>
+      <hash>1a1e4fa340ebe08a79d58389c3ad797a192a944e</hash>
+      <hash>a48b2baac02a06caf81f7fcac9f1e13e71878841</hash>
+      <hash>8dfbc75605ab118cb97be9acda184871c9ba620f</hash>
+      <hash>64f6839216a17d27a12e037f42ef98121527748a</hash>
+      <hash>8cb00f909df82f9105958f97c13057ee000f7af4</hash>
+      <hash>8004dfcb5868650c1e348c7e27b56585ecf2f40d</hash>
+      <hash>99a35de4de87afb83922657b2c09362c245ffc08</hash>
+      <hash>95017168c9487eaece271086116fdcc9a732a36b</hash>
+      <hash>169f871734422743c3d7d40bcc102acc4747f34d</hash>
+      <hash>8c94a4c33715265b05eb90663d328039d7cca6a7</hash>
+      <hash>362e27d6ed146744405b484004fab2a425e3fdcf</hash>
+      <hash>ef1283cb2d572d9b20b3904621792856c6eaa3ac</hash>
+      <hash>1321cee5a7d586009a1028db027c36e2138a8c6f</hash>
+      <hash>2cdfeef0daa7b55b15ac3e8b4f6d79e33ef1e886</hash>
+      <hash>db535c375348b4469db14fb844d55c5816931dca</hash>
+      <hash>a9b5fe0a0f1cff94b780c4d866cd126fd6ac294c</hash>
+      <hash>b278396770c212c2f84295819a30eec3c6d5dc50</hash>
+      <hash>c637c72637628b3eec2a2b13bc9fb78d9707c504</hash>
+      <hash>475a121ee95b9cc8f510af73adc650a94243de4e</hash>
+      <hash>f9011395f8efa12ea59205882dbb474ed3f3aace</hash>
+      <hash>79aa6d7383c813dd6056927a5423c46b70fc85be</hash>
+      <hash>473c37c21df4e679e669496eb747f7d4effc754b</hash>
+      <hash>19f869246dc872ddc48e51dbcf363be5fa24e7a3</hash>
+      <hash>969b21513733adefe9a7dbd6d4e83e12dd424b27</hash>
+      <hash>03a6e8564de859e0487b16441729b410227c604a</hash>
+      <hash>527962e0916fda30f9a1e1084a30994618ca5b5b</hash>
+      <hash>866ef55cb2de2ae816a01296d2c8bd7614bafd11</hash>
+      <hash>d5b17d4bc278c49a84960182298135cdf6376521</hash>
+      <hash>b252f44798f39d04a067a920721f999553f0cc3c</hash>
+      <hash>ef29841ca41b02a961cfdd4d57bb6855c3155cc8</hash>
+      <hash>a5559288dab670e699e39aa660e4f92833081c3f</hash>
+      <hash>efbbf57ab1fcb0d002dd9a738b7927c83dc1f66c</hash>
+      <hash>5bd3a905eaa8caafcf7f29d63dd672b69a176172</hash>
+      <hash>4f52a7150ed6b199011a0876ef35fabb1abf7dd2</hash>
+      <hash>8a8afdd274203d41a7af22d2701b54e16eeb4044</hash>
+      <hash>da51e76ddf7f10cbeca68d3f99514120a3127730</hash>
+      <hash>64f25eaf73eb87d5806dc8cb13c54fae9849fe98</hash>
+      <hash>916ba8e4be6cb79cbfb7ff7e5a2870be31dc372c</hash>
+      <hash>ec3021a93204b4d2c45f03840b07d1598d0541f9</hash>
+      <hash>e16bb4e76d1d68a6ff7a4077c14462be4cbcd0a5</hash>
+      <hash>7b4264dc2d5f7625958201257ca0b1e38c10d6b6</hash>
+      <hash>e0e3e3ed8e8760f4e5f8d048bb0f11e820e67fbf</hash>
+      <hash>e7c116f60ce6b781d009d50b67ce3888dac67a82</hash>
+      <hash>25f5ee89871fcbae45a4a136183c371d667cef11</hash>
+    </pieces>
+
+
+    <!-- Found 9 mirrors: 0 in the same network prefix, 0 in the same autonomous system,
+         0 handling this country, 1 in the same region, 7 elsewhere -->
+
+    <!-- Mirrors in the same network (202.67.40.0/21): -->
+
+    <!-- Mirrors in the same AS (18347): -->
+
+    <!-- Mirrors which handle this country (ID): -->
+
+    <!-- Mirrors in the same continent (AS): -->
+    <url location="jp" priority="1">http://ftp.kddilabs.jp/Linux/packages/opensuse/source/factory/repo/oss/suse/src/blender-2.72b-2.3.src.rpm</url>
+
+    <!-- Mirrors in the rest of the world: -->
+    <url location="pl" priority="2">http://ftp.icm.edu.pl/pub/Linux/opensuse/source/factory/repo/oss/suse/src/blender-2.72b-2.3.src.rpm</url>
+    <url location="de" priority="3">http://ftp.uni-ulm.de/mirrors/opensuse/source/factory/repo/oss/suse/src/blender-2.72b-2.3.src.rpm</url>
+    <url location="de" priority="4">http://ftp5.gwdg.de/pub/opensuse/source/factory/repo/oss/suse/src/blender-2.72b-2.3.src.rpm</url>
+    <url location="de" priority="5">http://ftp.halifax.rwth-aachen.de/opensuse/source/factory/repo/oss/suse/src/blender-2.72b-2.3.src.rpm</url>
+    <url location="de" priority="6">http://ftp.hosteurope.de/mirror/ftp.opensuse.org/source/factory/repo/oss/suse/src/blender-2.72b-2.3.src.rpm</url>
+    <url location="br" priority="7">http://opensuse.c3sl.ufpr.br/source/factory/repo/oss/suse/src/blender-2.72b-2.3.src.rpm</url>
+    <url location="us" priority="8">http://suse.mobile-central.org/source/factory/repo/oss/suse/src/blender-2.72b-2.3.src.rpm</url>
+  </file>
+</metalink>

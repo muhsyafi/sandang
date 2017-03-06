@@ -1,0 +1,16 @@
+
+public class Prima{
+	public static void main(String[] args){
+		for (int i=0;i<=10 ;i++ ) {
+			int n=0;
+			for (int x=1; x<=i ; x++ ) {
+				if (i%x==0) {
+					n++;
+				}
+			}
+			if (n==2) {
+				System.out.println(i);
+			}
+		}
+	}
+}

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="70px" height="30px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 742 317"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#999999}
+    svg:hover .fil1 {fill:white}
+    .fil1 {fill:black;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="742" height="317"/>
+  <polygon class="fil1" points="256,205 256,185 219,185 219,85 196,85 196,205 "/>
+  <path id="1" class="fil1" d="M268 173c0,24 12,34 33,34 21,0 34,-10 34,-34l0 -26c0,-24 -13,-34 -34,-34 -21,0 -33,10 -33,34l0 26zm21 -31c0,-7 5,-11 12,-11 8,0 13,4 13,11l0 36c0,7 -5,11 -13,11 -7,0 -12,-4 -12,-11l0 -36z"/>
+  <path id="2" class="fil1" d="M392 148c0,15 -3,19 -12,19 -7,0 -10,-6 -10,-17 0,-14 3,-20 11,-20 7,0 11,6 11,18zm31 -35c-8,0 -13,4 -19,11 -5,-7 -15,-11 -23,-11 -24,0 -31,15 -31,34 0,15 3,25 13,32 -5,3 -12,8 -12,15 0,6 3,10 8,13 -5,3 -12,7 -12,14 0,10 12,16 34,16 25,0 41,-7 41,-22 0,-33 -53,-16 -53,-27 0,-2 3,-4 4,-5 3,1 5,1 8,1 21,0 31,-13 31,-36 0,-5 -2,-10 -3,-16 3,-1 5,-2 7,-2 2,0 5,1 7,1l0 -18zm-29 98c6,1 8,2 8,5 0,5 -6,7 -16,7 -12,0 -19,-2 -19,-6 0,-4 2,-5 4,-8l23 2z"/>
+  <path id="3" class="fil1" d="M439 115l0 90 21 0 0 -90 -21 0zm21 -16l0 -19 -21 0 0 19 21 0z"/>
+  <path id="4" class="fil1" d="M504 205l0 -68c4,-4 9,-8 13,-8 6,0 8,4 8,10l0 66 21 0 0 -69c0,-16 -7,-23 -19,-23 -9,0 -16,5 -24,12l0 -10 -20 0 0 90 21 0z"/>
+ </g>
+</svg>

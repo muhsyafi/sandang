@@ -1,6 +1,6 @@
 <?php
 error_reporting(E_ALL^(E_NOTICE|E_WARNING));
-require_once '../core/con.php';
+require_once '../core/db.php';
 $no = $_GET['no'];
 //setcookie('tes',30,time()+3600);
 $x = $_COOKIE['order-no-cookie'];

@@ -1,7 +1,7 @@
 <?php
 session_start();
 $user = $_SESSION['user'];
-include '../core/con.php';
+include '../core/db.php';
 $user = $_SESSION['user'];
 $kueri = mysqli_query($link, "select * from user where username='$user' and status='1'");
 $data = mysqli_num_rows($kueri);

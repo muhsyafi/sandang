@@ -1,5 +1,5 @@
 <?php
-require_once '../core/con.php';
+require_once '../core/db.php';
 ?>
 <div id="1" class="sw2-child">
 	<div class="inline full-h sw2-child-1"></div>

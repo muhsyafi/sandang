@@ -37,7 +37,7 @@
         <div class="order-continue-hd-page abs">
             <ul class="abs ce absc">
 <?php
-include '../core/con.php';
+include '../core/db.php';
 $kueri = mysqli_query($link, "select count(*) as total from house_design_new");
 $data = mysqli_fetch_assoc($kueri);
 $data = ceil(($data['total']) / 13);

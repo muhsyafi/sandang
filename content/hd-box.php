@@ -1,6 +1,6 @@
 <?php
 $id_img = $_GET['id'];
-include '../core/con.php';
+include '../core/db.php';
 $kueri = mysqli_query($link, 'select * from house_design_img where id=' . $id_img . '');
 while ($data = mysqli_fetch_array($kueri)) {
 	$img_name = $data['img'];

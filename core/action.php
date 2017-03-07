@@ -1,6 +1,6 @@
 <?php
 session_start();
-include 'con.php';
+include 'db.php';
 error_reporting(E_ALL^(E_NOTICE|E_WARNING));
 $act = $_GET['act'];
 $name = $_SESSION['user'];

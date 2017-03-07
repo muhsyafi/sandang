@@ -5,9 +5,9 @@
 # http://www.sequelpro.com/
 # https://github.com/sequelpro/sequelpro
 #
-# Host: 127.0.0.1 (MySQL 5.7.13)
+# Host: 127.0.0.1 (MySQL 5.5.44)
 # Database: i2icustom
-# Generation Time: 2016-08-21 04:05:58 +0000
+# Generation Time: 2017-03-07 01:31:59 +0000
 # ************************************************************
 
 
@@ -7874,7 +7874,8 @@ LOCK TABLES `menu` WRITE;
 
 INSERT INTO `menu` (`id`, `name`, `status`, `url`, `menu_id`)
 VALUES
-	(2,'Home','1','?menu=home','home'),
+	(1,'Home','1','?menu=home','home'),
+	(2,'Design','1','?menu=design','design'),
 	(3,'Order','1','?menu=cart','order'),
 	(4,'Products','1','?menu=product','product'),
 	(5,'House Designs','1','?menu=house_design','house_design'),
@@ -9315,7 +9316,20 @@ VALUES
 	(213,'127.0.0.1','Mac OS X','Safari','2016-08-06 22:21:13'),
 	(214,'127.0.0.1','Windows XP','Firefox','2016-08-06 22:28:46'),
 	(215,'127.0.0.1','Mac OS X','Safari','2016-08-09 15:22:26'),
-	(216,'127.0.0.1','Mac OS X','Safari','2016-08-09 15:22:29');
+	(216,'127.0.0.1','Mac OS X','Safari','2016-08-09 15:22:29'),
+	(217,'::1','Mac OS X','Safari','2017-03-06 10:38:43'),
+	(218,'::1','Mac OS X','Safari','2017-03-06 10:40:46'),
+	(219,'::1','Mac OS X','Safari','2017-03-06 10:41:15'),
+	(220,'::1','Mac OS X','Safari','2017-03-06 12:01:10'),
+	(221,'::1','Mac OS X','Safari','2017-03-06 12:52:43'),
+	(222,'::1','Mac OS X','Safari','2017-03-06 12:52:44'),
+	(223,'::1','Mac OS X','Safari','2017-03-06 12:53:03'),
+	(224,'::1','Mac OS X','Safari','2017-03-06 12:55:54'),
+	(225,'::1','Mac OS X','Safari','2017-03-06 12:58:08'),
+	(226,'::1','Mac OS X','Safari','2017-03-06 12:58:54'),
+	(227,'::1','Mac OS X','Safari','2017-03-07 08:30:49'),
+	(228,'::1','Mac OS X','Safari','2017-03-07 08:31:40'),
+	(229,'::1','Mac OS X','Safari','2017-03-07 08:31:45');
 
 /*!40000 ALTER TABLE `statistic` ENABLE KEYS */;
 UNLOCK TABLES;

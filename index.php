@@ -1,7 +1,7 @@
-<html>
+Fƒ<html>
 <?php
 error_reporting(E_ALL^(E_NOTICE|E_WARNING));
-require_once 'core/con.php';
+require_once 'core/db.php';
 include 'assets/header.php';
 $menu = $_GET['menu'];
 ?>

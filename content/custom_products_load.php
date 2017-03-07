@@ -1,5 +1,5 @@
 <?php
-	include '../core/con.php';
+	include '../core/db.php';
 	$id=$_GET['id']; 
 	$kueri = mysqli_query($link,"select * from custom_products where id='$id'");
 	while ($data=mysqli_fetch_array($kueri)) {

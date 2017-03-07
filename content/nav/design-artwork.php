@@ -20,7 +20,7 @@
 </style>
 <div class="artwork-wrapper">
 <?php 
-require_once('../../core/con.php');
+require_once('../../core/db.php');
 $kueri=mysqli_query($link,"select * from artwork_new");
 while ($data=mysqli_fetch_array($kueri)) {
 	?>

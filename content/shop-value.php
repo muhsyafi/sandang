@@ -1,7 +1,7 @@
 <?php
 session_start();
 error_reporting(E_ERROR | E_WARNING | E_PARSE | E_NOTICE);
-require_once '../core/con.php';
+require_once '../core/db.php';
 ?>
 <div id="1" class="sw2-child">
 	<div class="inline full-h sw2-child-1"></div>

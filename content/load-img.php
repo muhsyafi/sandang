@@ -9,7 +9,7 @@
     }); //end ready
 </script>
 <?php
-include '../core/con.php';
+include '../core/db.php';
 $start = $_GET['start'];
 $kueri = mysqli_query($link, "select * from house_design_new order by id asc limit $start,20");
 while ($data = mysqli_fetch_array($kueri)) {

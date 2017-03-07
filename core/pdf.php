@@ -2,7 +2,7 @@
 ob_start();
 error_reporting( error_reporting() & ~E_NOTICE );
 date_default_timezone_set('Asia/Jakarta');
-include('con.php');
+include('db.php');
 $id = $_GET['id'];
 $page = '
 <htmlpagefooter name="myHTMLFooterOdd" style="display:none">

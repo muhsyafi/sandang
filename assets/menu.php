@@ -1,4 +1,4 @@
-<?php require_once('core/con.php'); 
+<?php require_once('core/db.php'); 
 $header_menu=$_GET['menu'];
 if ($header_menu!='') {
 	echo('<style>#'.$header_menu.'{color:black}</style>');

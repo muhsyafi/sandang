@@ -1,8 +1,7 @@
 <?php 
 require_once("pdf/dompdf_config.inc.php");
-//include '../../core/con.php';
-//$link=mysqli_connect('internal-db.s128939.gridserver.com','db128939_test','Satu23456','db128939_test');
-$link=mysqli_connect('localhost','root','cintaku','i2icustom');
+//include '../../core/db.php';
+$link=mysqli_connect('localhost','root','','i2icustom');
 $kueri = mysqli_query($link,"select * from order_form order by id desc  limit 1");
 while ($data=mysqli_fetch_array($kueri)) {
 $message ='

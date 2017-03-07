@@ -1,5 +1,5 @@
 <?php
-include '../core/con.php';
+include '../core/db.php';
 $id=$_GET['id'];
  ?>
  <script type="text/javascript">

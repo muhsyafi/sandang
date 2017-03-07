@@ -91,7 +91,7 @@ color:#555555;
 </style>
 <div class="product-wrapper">
 	<?php
-	require_once('../../core/con.php');
+	require_once('../../core/db.php');
 	$qTitle = mysqli_query($link, "select * from category new where cat_parent_ID=0 order by cat_id asc");
 	while ($data=mysqli_fetch_array($qTitle)) {
 	?>

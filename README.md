@@ -7,15 +7,14 @@ untuk website menggunakan PHP murni, tanpa framework. Untuk database ada di file
 ![alt text](https://preview.ibb.co/hZ4xD8/Screen_Shot_2018_05_23_at_22_58_35.png)
 
 ## Tampilan halaman design
-![alt text](https://ibb.co/e9gKt8)
-![alt text](https://ibb.co/mNLq0o)
-![alt text](https://ibb.co/c4XERT)
-![alt text](https://ibb.co/jfNERT)
-![alt text](https://ibb.co/fN9iLo)
-![alt text](https://ibb.co/cva16T)
-![alt text](https://ibb.co/kXLq0o)
-![alt text](https://ibb.co/cL3omT)
-![alt text](https://ibb.co/dFqq0o)
+![alt text](https://preview.ibb.co/fnG8mT/Screen_Shot_2018_05_23_at_23_10_06.png)
+![alt text](https://preview.ibb.co/kqjHfo/Screen_Shot_2018_05_23_at_23_10_58.png)
+![alt text](https://preview.ibb.co/d9aq0o/Screen_Shot_2018_05_23_at_23_12_04.png)
+![alt text](https://preview.ibb.co/nwfq0o/Screen_Shot_2018_05_23_at_23_12_24.png)
+![alt text](https://preview.ibb.co/gXNg6T/Screen_Shot_2018_05_23_at_23_12_37.png)
+![alt text](https://preview.ibb.co/n5vOLo/Screen_Shot_2018_05_23_at_23_12_57.png)
+![alt text](https://preview.ibb.co/gSycfo/Screen_Shot_2018_05_23_at_23_13_18.png)
+![alt text](https://preview.ibb.co/hrtomT/Screen_Shot_2018_05_23_at_23_13_39.png)
 
 
 ## Fitur

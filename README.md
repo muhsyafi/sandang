@@ -3,6 +3,9 @@
 Dinamakan sandang karena berdasarkan kosakata sandang-papan-pangan,
 untuk website menggunakan PHP murni, tanpa framework. Untuk database ada di file.
 
+## Tampilan utama
+![alt text](https://preview.ibb.co/hZ4xD8/Screen_Shot_2018_05_23_at_22_58_35.png)
+
 
 ## Fitur
 

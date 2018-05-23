@@ -6,6 +6,17 @@ untuk website menggunakan PHP murni, tanpa framework. Untuk database ada di file
 ## Tampilan utama
 ![alt text](https://preview.ibb.co/hZ4xD8/Screen_Shot_2018_05_23_at_22_58_35.png)
 
+## Tampilan halaman design
+![alt text](https://ibb.co/e9gKt8)
+![alt text](https://ibb.co/mNLq0o)
+![alt text](https://ibb.co/c4XERT)
+![alt text](https://ibb.co/jfNERT)
+![alt text](https://ibb.co/fN9iLo)
+![alt text](https://ibb.co/cva16T)
+![alt text](https://ibb.co/kXLq0o)
+![alt text](https://ibb.co/cL3omT)
+![alt text](https://ibb.co/dFqq0o)
+
 
 ## Fitur
 
